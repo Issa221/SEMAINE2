@@ -1,0 +1,33 @@
+body{
+    color: rgb(182, 108, 108);
+    background: url("https://images.unsplash.com/photo-1605703905070-24220ce7f693?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDF8Ym84alFLVGFFMFl8fGVufDB8fHw%3D&auto=format&fit=crop&w=500&q=60") no-repeat center center fixed;
+    background-size: cover;
+}
+h1{
+    font-family: 'Xanh Mono', monospace;
+}
+h2{
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Xanh Mono', monospace;
+    color: rgb(159, 225, 236) ;
+}
+ul{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: chartreuse;
+}
+ol{
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Xanh Mono', monospace;
+    color: white;
+}
+p{
+    font-size: 25px;
+}
+.bordure{
+    border: 4px blue dotted;
+    opacity: 0,5;
+}
+.centre{
+    text-align: center;
+}

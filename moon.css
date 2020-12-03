@@ -1,0 +1,19 @@
+body {
+    color:#00d62e ;
+    background-color: rgba(116, 103, 30, 0.904);
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    font-weight: bold;
+    font-family: 'Xanh Mono', monospace;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2{
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
